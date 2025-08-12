@@ -32,7 +32,6 @@ Using membership data from **2,000 individuals**, the project applies **K-Means+
 
 ## Repository Contents
 - `Assignment2_Coding.ipynb` – Full Python implementation
-- `BUSA8001_Assignment2_Report.pdf` – Detailed report and insights
 - `data.csv` – Membership dataset
 - `data legend.csv` – Data dictionary
 
